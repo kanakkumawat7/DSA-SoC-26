@@ -205,6 +205,16 @@ Throughout the project, I have strengthened my understanding of:
 * Heap and greedy optimization strategies
 * Binary tree and BST operations
 
+## Learning Resources
+
+The following resources have been used consistently throughout the project:
+
+* **Striver's DSA Sheet & A2Z DSA Course** – Used as the primary learning resource for understanding algorithmic concepts, data structures, and problem-solving patterns through structured video lectures.
+* **LeetCode** – Solved topic-wise practice problems to reinforce concepts and improve implementation skills.
+* **LeetCode Community Solutions** – Referred to editorials and highly-rated community solutions after attempting problems independently to understand optimal approaches, alternative techniques, and time-space optimizations.
+* **Official Documentation and Standard Library References** – Consulted C++ STL documentation whenever required to better understand library functions and data structures.
+* **Personal Notes** – Maintained notes on VS code summarizing important points, algorithms, common patterns, and observations from solved problems for quick revision.
+
 # Current Progress
 
 * Successfully completed the core foundations of arrays, searching, stacks, queues, trees, greedy algorithms, and heaps.
